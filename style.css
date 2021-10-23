@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 body{
     background: black;
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: 'Lobster', cursive;
 }
 .about-us{
     background: white;
@@ -28,7 +30,7 @@ h2{
     color: white;
 }
 .box{
-    padding: 25px;
+    padding: 0px;
 }
 .box{
     margin: 45px 0;
